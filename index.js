@@ -5,6 +5,7 @@ module.exports = {
 	Comment: "comment", //<!-- ... -->
 	Script: "script", //<script> tags
 	Style: "style", //<style> tags
+	Raw: "raw", // Custom <raw> tags
 	Tag: "tag", //Any tag
 	CDATA: "cdata", //<![CDATA[ ... ]]>
 	Doctype: "doctype",
