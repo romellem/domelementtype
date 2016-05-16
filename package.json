@@ -12,5 +12,8 @@
     "htmlparser2"
   ],
   "author": "Felix Boehm <me@feedic.com>",
+  "contributors": [{
+    "name": "romellem"
+  }],
   "license": "BSD-2-Clause"
 }
